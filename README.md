@@ -37,6 +37,7 @@ These are the accepted technical decisions in the current PRD. They are separate
 
 - [`docs/prd/Loot_Allocation_PRD_v0.2.md`](docs/prd/Loot_Allocation_PRD_v0.2.md) — full Product Requirements Document
 - [`docs/prd/Loot_Allocation_Product_Owner_Review_Brief.md`](docs/prd/Loot_Allocation_Product_Owner_Review_Brief.md) — workflow assumptions pending Product Owner validation
+- [`docs/development/ai-assisted-development-workflow.md`](docs/development/ai-assisted-development-workflow.md) — how Spec Kit and Superpowers are used together for AI-assisted development
 - `docs/architecture/` — reserved for architecture documentation as it is produced
 - `docs/decisions/` — reserved for architecture decision records
 

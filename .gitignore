@@ -43,6 +43,10 @@ local.settings.json
 .vscode/*
 !.vscode/extensions.json
 
+# ---- Claude Code (local/personal overrides only; .claude/settings.json and
+# .claude/skills/ are intentionally committed and shared) ----
+.claude/settings.local.json
+
 # ---- OS ----
 .DS_Store
 Thumbs.db
